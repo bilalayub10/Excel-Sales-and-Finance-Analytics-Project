@@ -84,7 +84,7 @@ This report provides a deep dive into customer performance, focusing on **net sa
 **Market Performance vs Target Report**  
 This report compares actual sales performance to the set sales targets for different countries. Insights include:
 - The total sales across all countries in **2021** fell short of the target by **54.9M INR**, representing a deviation of **-8.4%** from the set goal.
-- Despite missing the target, **India** had the smallest deviation at **-5.6%**, followed by **Portugal** at **-4.1%**, indicating relatively strong performance.
+- Despite missing the target, **Japan** had the smallest deviation at **-4.0%**, followed by **Portugal** at **-4.1%**, and **India** at **-5.6%** indicating relatively strong performance.
 - Countries like **Poland (-15.3%)** and **Canada (-12.6%)** showed the highest percentage shortfalls, highlighting areas needing improvement in achieving sales targets.
 
 [**View Market Performance vs Target Report**](https://github.com/bilalayub10/Excel-Sales-and-Finance-Analytics-Project/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
