@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Project Objective](#project-objectives)
+- [Project Objectives](#project-objectives)
 - [Tools and Technologies](#tools-and-technologies)
 - [Data Sources](#data-sources)
 - [Data Processing and Analysis](#data-processing-and-analysis)
