@@ -11,7 +11,7 @@
 - [Finance Analysis](#finance-analysis)
 
 ## Project Overview
-In this project, I analyzed **sales** and **finance** data using **Excel** to derive actionable business insights. The datasets come from **AtliQ Hardwares**, an imaginary company that sells hardware products like keyboards, printers, and other devices. The analysis covers sales and finance data from the company’s **fiscal years** (1st September to 31st August) of **2019, 2020, and 2021**.
+In this project, I analyzed **sales** and **finance** data using **Excel** to derive actionable business insights. The datasets come from **AtliQ Hardwares**, an imaginary company that sells hardware products like keyboards, printers, and other devices worldwide. The analysis covers sales and finance data from the company’s **fiscal years** (1st September to 31st August) of **2019, 2020, and 2021**.
 
 ## Project Objectives
 
